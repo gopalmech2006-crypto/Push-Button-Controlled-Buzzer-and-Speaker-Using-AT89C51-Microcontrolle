@@ -1,11 +1,6 @@
 
-Here is the complete, GitHub-ready `README.md` file with Author, Aim, Apparatus Required, Theory, Circuit Connections, Working Principle, Algorithm, Embedded C Code, Design Calculations, Experimental Readings, Result, Applications, and Conclusion.
 
-Create a file named `README.md` and copy the following content.
-
-Writing
-
-# 🔔 Push-Button-Controlled Buzzer and Speaker Using AT89C51 Microcontroller
+#  Push-Button-Controlled Buzzer and Speaker Using AT89C51 Microcontroller
 
 ## Author Details
 
