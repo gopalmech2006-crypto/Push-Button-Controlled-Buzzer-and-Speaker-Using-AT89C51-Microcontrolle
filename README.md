@@ -537,7 +537,6 @@ The project demonstrates the fundamental concepts of digital input interfacing, 
 
 Therefore, the design and implementation of a push-button-controlled buzzer and speaker using the AT89C51 microcontroller were successfully studied and demonstrated.
 **output**
-<img width="1600" height="961" alt="image" src="https://github.com/user-attachments/assets/e93b6c80-9556-46f6-908b-289855738829" />
 <img width="1600" height="951" alt="image" src="https://github.com/user-attachments/assets/b49d441d-fbcb-4f55-8426-d96b1b1f4777" />
 
 
